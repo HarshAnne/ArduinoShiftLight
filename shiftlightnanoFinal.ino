@@ -1,3 +1,7 @@
+/*
+  Harshavardhan Anne
+  github.com/HarshAnne
+*/
 #include <SoftwareSerial.h>
 #include <Timer.h>
 #include <stdlib.h>
