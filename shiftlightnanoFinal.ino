@@ -1,6 +1,6 @@
 /*
   Harshavardhan Anne
-  github.com/HarshAnne
+  github.com/HarshavardhanAnne
 */
 #include <SoftwareSerial.h>
 #include <Timer.h>
